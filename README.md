@@ -24,6 +24,6 @@ The **Employee Attendance Management System** is a mobile application built with
 - **Database**: MongoDB Atlas  
 - **State Management**: Context API or Redux
 
-##Screenshot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/7c278a31-936a-4db8-8cda-badd288ea392)
 
