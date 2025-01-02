@@ -27,11 +27,12 @@ The **Employee Attendance Management System** is a mobile application built with
 ---
 
 ## Screenshot
-- ![image](https://github.com/user-attachments/assets/e541f613-01bd-4098-92ea-44e4e381851f)   -![image](https://github.com/user-attachments/assets/ed3faf1f-4079-45ad-a85c-1517582c4d34)
-  
-- ![image](https://github.com/user-attachments/assets/a82780fb-5654-4502-98bf-8d95a3a0583e)   - ![image](https://github.com/user-attachments/assets/57d64c23-9a27-4a80-91ed-1f4a43d396ad)
-
-- ![image](https://github.com/user-attachments/assets/30746788-9ec6-4a7e-88d6-b568f39d2645)   - ![image](https://github.com/user-attachments/assets/b30af4fd-592f-4ee5-89c9-bfccae18497d)
+- ![image](https://github.com/user-attachments/assets/e541f613-01bd-4098-92ea-44e4e381851f)
+- ![image](https://github.com/user-attachments/assets/ed3faf1f-4079-45ad-a85c-1517582c4d34)
+- ![image](https://github.com/user-attachments/assets/a82780fb-5654-4502-98bf-8d95a3a0583e)
+- ![image](https://github.com/user-attachments/assets/57d64c23-9a27-4a80-91ed-1f4a43d396ad)
+- ![image](https://github.com/user-attachments/assets/30746788-9ec6-4a7e-88d6-b568f39d2645)
+- ![image](https://github.com/user-attachments/assets/b30af4fd-592f-4ee5-89c9-bfccae18497d)
 
 
 
